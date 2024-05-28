@@ -30,7 +30,12 @@
             "styles": [
               "src/styles.scss"
             ],
-            "scripts": []
+            "scripts": [
+              "./node_modules/js1/turn.min.js",
+              "./node_modules/js1/turn.js",
+              "src/assets/js/turn.js",
+              "src/assets/js/teste.js"
+            ]
           },
           "configurations": {
             "production": {
